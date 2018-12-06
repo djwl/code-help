@@ -1,0 +1,1228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+  <head> 
+    <!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]--> 
+    <title>be your best you.</title> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 " /> 
+    <meta name="format-detection" content="telephone=no" /> 
+    <meta class="mktoColor" id="btn_bg_color" mktoname="Background Color" mktomodulescope="true" default="#a6192e" /> 
+    <meta class="mktoColor" id="btn_bg_color_2" mktoname="Background Color 2" mktomodulescope="true" default="#a6192e" /> 
+    <meta class="mktoColor" id="title_bg_color" mktoname="Title Background Color" mktomodulescope="true" default="#f6f7f8" /> 
+    <meta class="mktoColor" id="title_withButton_bg_color" mktoname="Ttitle WithContent Bg Color" mktomodulescope="true" default="#f6f7f8" /> 
+    <meta class="mktoColor" id="title_with2colButton_bg_color" mktoname="Ttitle With2colButton Bg Color" mktomodulescope="true" default="#f6f7f8" /> 
+    <meta class="mktoColor" id="dividerline_bg_color" mktoname="articaldivider_bg_color" mktomodulescope="true" default="#5c068c" /> 
+    <meta class="mktoColor" id="divider_bg_color" mktoname="articaldivider_bg_color" mktomodulescope="true" default="#5c068c" /> 
+    <meta class="mktoColor" id="footerlinks_bg_color" mktoname="footerlinks_bg_color" mktomodulescope="true" default="#5c068c" /> 
+    <meta class="mktoColor" id="subheader-text_color" mktoname="subheader-text_color" mktomodulescope="true" default="#5B1989" /> 
+    <meta class="mktoColor" id="vertical-line-color" mktoname="vertical-line-color" mktomodulescope="true" default="#a6192e" /> 
+    <meta class="mktoNumber" id="divider-1-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-1-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-2-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-2-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-3-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-3-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-4-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-4-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-5-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-5-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-6-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="divider-6-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-yellow-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-yellow-b" mktoname="Bottom Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-teal-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-teal-b" mktoname="Bottom Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-red-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-red-b" mktoname="Bottom Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-purple-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="spacing-brushes-purple-b" mktoname="Bottom Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="black-divider-t" mktoname="Top Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="black-divider-b" mktoname="Bottom Spacing" default="0" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="red-divider-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="red-divider-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="teal-divider-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="teal-divider-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="purple-divider-t" mktoname="Top Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="purple-divider-b" mktoname="Bottom Spacing" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="purple-divider-weight" mktoname="Line Weight" default="5" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="teal-divider-weight" mktoname="Line Weight" default="5" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="red-divider-weight" mktoname="Line Weight" default="5" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="black-divider-weight" mktoname="Line Weight" default="5" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="padding" mktoname="Padding" default="10" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="logo-tpadding" mktoname="Logo Padding Top" default="20" mktomodulescope="true" step="1" /> 
+    <meta class="mktoNumber" id="logo-bpadding" mktoname="Logo Padding Bottom" default="20" mktomodulescope="true" step="1" /> 
+    <style type="text/css">
+body {
+	margin: 0;
+	padding: 0;
+	-webkit-text-size-adjust: 100% !important;
+	-ms-text-size-adjust: 100% !important;
+}
+img {
+	border: 0 !important;
+	outline: none !important;
+}
+p {
+	Margin: 0px !important;
+	Padding: 0px !important;
+}
+table {
+	border-collapse: collapse;
+}
+td, a, span {
+	border-collapse: collapse;
+}
+.ExternalClass * {
+	line-height: 100%;
+}
+.em_defaultlink a {
+	color: inherit !important;
+	text-decoration: none !important;
+}
+.em_grey a {
+	text-decoration: none;
+	color: #333333;
+}
+.em_grey1 a {
+	text-decoration: none;
+	color: #444444;
+}
+.em_black a {
+	text-decoration: none;
+	color: #000000;
+}
+.em_black1 a {
+	text-decoration: none;
+	color: #242424;
+}
+.em_white a {
+	text-decoration: none;
+	color: #ffffff;
+}
+.em_white1 a {
+	text-decoration: underline;
+	color: #ffffff;
+}
+.em_red a {
+	text-decoration: none;
+	color: #a6192e;
+	font-weight: bold;
+}
+.em_red1 a {
+	text-decoration: underline;
+	color: #a6192e;
+}
+.em_green a {
+	text-decoration: none;
+	color: #28939d;
+}
+ @media only screen and (min-width:481px) and (max-width:649px) {
+.em_main_table {
+	width: 100% !important;
+}
+.em_wrapper {
+	width: 100% !important;
+}
+.em_hide {
+	display: none !important;
+}
+.em_full_img {
+	width: 100% !important;
+	height: auto !important;
+	max-width: 100% !important;
+}
+.em_center {
+	text-align: center !important;
+}
+.em_side10 {
+	width: 10px !important;
+}
+.em_aside10 {
+	padding: 0px 10px !important;
+}
+.em_side15 {
+	width: 15px !important;
+}
+.em_aside15 {
+	padding: 0px 15px !important;
+}
+.em_h20 {
+	height: 20px !important;
+}
+.em_ptop {
+	padding-top: 20px !important;
+}
+.em_pbottom {
+	padding-bottom: 20px !important;
+}
+.em_aside {
+	padding: 20px 10px !important;
+}
+.em_ptop10 {
+	padding-top: 10px !important;
+}
+.em_width {
+	width: 350px !important;
+}
+.em_aside1 {
+	padding: 0px 10px 20px 10px !important;
+}
+.em_border {
+	border-bottom-style: solid !important;
+  	border-bottom-width: 1px !important;
+}
+.em_full_img1 {
+	width: 100% !important;
+	height: auto !important;
+}
+.em_full_img2 {
+	width: 190px !important;
+	height: auto !important;
+}
+.em_width1 {
+	max-width: 400px !important;
+}
+.em_break1 {
+	display: block !important;
+}
+.em_menu {
+	font-size: 22px !important;
+	line-height: 30px !important;
+}
+.em_ptop15 {
+	padding-top: 15px !important;
+}
+.em_h15 {
+	height: 15px !important;
+	font-size: 1px !important;
+	line-height: 1px !important;
+}
+}
+@media screen and (max-width: 480px) {
+.em_main_table {
+	width: 100% !important;
+}
+.em_wrapper {
+	width: 100% !important;
+}
+.em_hide {
+	display: none !important;
+}
+.em_full_img {
+	width: 100% !important;
+	height: auto !important;
+	max-width: 100% !important;
+}
+.em_center {
+	text-align: center !important;
+}
+.em_side10 {
+	width: 10px !important;
+}
+.em_aside10 {
+	padding: 0px 10px !important;
+}
+.em_side15 {
+	width: 15px !important;
+}
+.em_aside15 {
+	padding: 0px 15px !important;
+}
+.em_h20 {
+	height: 20px !important;
+}
+.em_ptop {
+	padding-top: 20px !important;
+}
+.em_pbottom {
+	padding-bottom: 20px !important;
+}
+u + .em_body .em_full_wrap {
+	width: 100% !important;
+	width: 100vw !important;
+}
+.em_aside {
+	padding: 0px 10px !important;
+}
+.em_ptop10 {
+	padding-top: 10px !important;
+}
+.em_width {
+	width: 300px !important;
+}
+.em_font20 {
+	font-size: 20px !important;
+	line-height: 23px !important;
+}
+.em_font22 {
+	font-size: 22px !important;
+	line-height: 25px !important;
+}
+.em_aside1 {
+	padding: 0px 10px 0px 10px !important;
+}
+.em_border {
+	border-bottom-style: solid !important;
+  	border-bottom-width: 1px !important;
+}
+.em_break {
+	display: block !important;
+}
+.em_hide1 {
+	display: none !important;
+}
+.em_full_img1 {
+	width: 100% !important;
+	height: auto !important;
+}
+.em_full_img2 {
+	width: 140px !important;
+	height: auto !important;
+}
+.em_width1 {
+	width: 300px !important;
+}
+.em_break1 {
+	display: block !important;
+}
+.em_menu {
+	font-size: 22px !important;
+	line-height: 30px !important;
+}
+.em_ptop15 {
+	padding-top: 15px !important;
+}
+.em_h15 {
+	height: 15px !important;
+	font-size: 1px !important;
+	line-height: 1px !important;
+}
+.border-remove {
+    border: none !important;
+  }
+.align-center{
+  text-align: left !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+</style> 
+    <style type="text/css">
+a, a:visited {color:#015ba7;} 
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+} 
+</style> 
+  </head> 
+  <body class="em_body" style="margin:0px; padding:0px;" bgcolor="#ffffff"> 
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> 
+      <tbody>
+        <tr> 
+          <td valign="top" align="center" class="mktoContainer boxedbackground" id="template_wrapper">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="Header1" id="Header1bd28dcfd-846a-4740-b33d-04ec528a5854" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px; "> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center"> 
+                            <table width="650" border="0" cellspacing="0" cellpadding="0" align="center" style="width:650px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td bgcolor="#ffffff" valign="top" align="center" class="em_grey" style="font-size:10px; font-family:Georgia, 'Times New Roman', Times, serif; color:#333333; line-height:19px; padding:13px 10px 0px 10px; background-color:#ffffff;"> 
+                                    <div class="mktoText" mktoname="Antiphishing" id="Antiphishing_sectionbd28dcfd-846a-4740-b33d-04ec528a5854">
+                                      <p><span class="em_break"></span> <a href="{{system.viewAsWebpageLink:default=edit me}}" target="_blank" style="text-decoration: underline; color: #888888; white-space: nowrap;">View in Browser</a>&nbsp;| XXXX</p>
+                                    </div></td> 
+                                </tr> 
+                                <tr> 
+                                  <td valign="top" align="center" class="" style="padding:${logo-tpadding}px 0px ${logo-bpadding}px 0px;"> 
+                                    <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="180" style="width:180px;"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="top" align="center"> 
+                                                    <div class="mktoImg" mktoname="Logo" id="topnavigation_left_logobd28dcfd-846a-4740-b33d-04ec528a5854" mktolockimgsize="false">
+                                                      <a href="#" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/215x150?text=logo" width="215" alt="be your best you." style="font-size:15px;   font-family:Arial, sans-serif; color:#ad132b; line-height:20px; display:block; max-width:215px;" border="0" /></a>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                                <tr> 
+                                  <td valign="top" align="center" style="padding-bottom:${padding}px;"> 
+                                    <div class="mktoImg" mktoname="bannerimg" id="topbannerimgbd28dcfd-846a-4740-b33d-04ec528a5854" mktolockimgsize="false">
+                                      <a href="http://{{my.Email - CTA URL}}" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/650x225?text=hero" class="em_full_img" width="650" height="225" alt="{{my.Email - Header Image Alt Text}}" style="font-size:15px;   font-family:Arial, sans-serif; color:#000000; line-height:20px; display:block; max-width:650px;" border="0" /></a>
+                                    </div></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="content_section" id="content_section4cd41196-1e79-4511-981c-e62b27481e33"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" class="em_aside1" style="padding-bottom:0px;"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top" align="left" class="em_red" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; padding-bottom:${padding}px; line-height:20px;"> 
+                                    <div class="mktoText" mktoname="content_text" id="contenttext304cd41196-1e79-4511-981c-e62b27481e33">
+                                      <p>{{my.Email - Body 1 Copy}}</p>
+                                    </div></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" bgcolor="#ffffff" mktoname="articaltitle" id="articaltitlee7d7bc63-a95b-4cc2-8a12-0053722d20c3"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" class="em_aside10"> 
+                            <table width="650" border="0" cellspacing="0" cellpadding="0" align="center" style="width:650px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table width="250" border="0" cellspacing="0" cellpadding="0" align="left" style="width:250px;" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td style="padding: 10px 0 10px 0; height:1px; font-size:0px; line-height:0px;"> 
+                                            <hr style="color:$#000000; width:100%; background-color:#000000; height:1px; border:none" /></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table width="145" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" style="width:145px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="center" class="em_ptop15 em_black1" style="font-size:22px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#242424; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="title_text" id="titletext18e7d7bc63-a95b-4cc2-8a12-0053722d20c3">
+                                              articles
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table width="250" border="0" cellspacing="0" cellpadding="0" align="right" style="width:250px;" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td style="padding: 10px 0 10px 0; height:1px; font-size:0px; line-height:0px;"> 
+                                            <hr style="color:#000000; width:100%; background-color:#000000; height:1px; border:none" /></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="Spacer_2" id="spacing-27c7174c1-73b5-43fe-9505-c3c9e7a21abb"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="font-size:0px; line-height:0px; padding:${divider-2-t}px 0px ${divider-2-b}px 0px;"><span>&nbsp;</span></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a2"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:10px; background-color:#ffffff;" class="em_aside1" bgcolor="${title_with2colButton_bg_color}"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="bottom" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a2">
+                                              <p>{{my.Email - Article 1 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a2">
+                                              <p>{{my.Email - Article 1 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a2">
+                                                      <p><strong><a href="http://{{my.Email - Article 1 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">read more 1 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection-1" id="dividerwith_spacesection15c94b258-dc01-4797-b2bc-23d0ea5a8c22" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="images/spacer.gif" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3c3840f97-f07e-4143-a04a-bd716b275098"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3c3840f97-f07e-4143-a04a-bd716b275098">
+                                              <p>{{my.Email - Article 2 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3c3840f97-f07e-4143-a04a-bd716b275098">
+                                              <p>{{my.Email - Article 2 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3c3840f97-f07e-4143-a04a-bd716b275098">
+                                                      <p><strong><a href="http://{{my.Email - Article 2 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">read more 2 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection" id="dividerwith_spacesection1dc21b78e-0ccf-40cb-813c-dad9ae7d2f67" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="images/spacer.gif" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3">
+                                              <p>{{my.Email - Article 3 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3">
+                                              <p>{{my.Email - Article 3 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3c3840f97-f07e-4143-a04a-bd716b275098">
+                                                      <p><strong><a href="http://{{my.Email - Article 2 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">read more 3 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection-4" id="dividerwith_spacesection12a08449d-bce1-435a-8adc-a8065d99870a" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="images/spacer.gif" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone-1" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3a5fb8928-6479-40b2-af12-e6a07396c8a8"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:${title_with2colButton_bg_color};" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3a5fb8928-6479-40b2-af12-e6a07396c8a8">
+                                              <p>{{my.Email - Article 4 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3a5fb8928-6479-40b2-af12-e6a07396c8a8">
+                                              <p>{{my.Email - Article 4 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="${btn_bg_color}"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3a5fb8928-6479-40b2-af12-e6a07396c8a8">
+                                                      <p><strong><a href="http://{{my.Email - Article 4 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">read more 4 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="Spacer_2-1" id="spacing-26992b73d-af77-40d8-bb77-402e7a54a399"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="font-size:0px; line-height:0px; padding:${divider-2-t}px 0px ${divider-2-b}px 0px;"><span>&nbsp;</span></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" bgcolor="#ffffff" mktoname="articaltitle-1" id="articaltitlea5dfbc5c-d36f-4011-8074-f689f54a505e"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" class="em_aside10"> 
+                            <table width="650" border="0" cellspacing="0" cellpadding="0" align="center" style="width:650px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table width="250" border="0" cellspacing="0" cellpadding="0" align="left" style="width:250px;" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td style="padding: 10px 0 10px 0; height:1px; font-size:0px; line-height:0px;"> 
+                                            <hr style="color:#000000; width:100%; background-color:#000000; height:1px; border:none" /></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table width="145" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" style="width:145px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="center" class="em_ptop15 em_black1" style="font-size:22px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#242424; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="title_text" id="titletext18a5dfbc5c-d36f-4011-8074-f689f54a505e">
+                                              <p>events</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table width="250" border="0" cellspacing="0" cellpadding="0" align="right" style="width:250px;" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td style="padding: 10px 0 10px 0; height:1px; font-size:0px; line-height:0px;"> 
+                                            <hr style="color:#000000; width:100%; background-color:#000000; height:1px; border:none" /></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="Spacer_1" id="spacing-1c6322a64-d1d6-495b-b855-484217034f80"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="font-size:0px; line-height:0px; padding:${divider-1-t}px 0px ${divider-1-b}px 0px;"><span>&nbsp;</span></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone-1-2" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e">
+                                              <p>{{my.Email - Event 1 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e">
+                                              <p>{{my.Email - Event 1 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e">
+                                                      <p><strong><a href="http://{{my.Email - Event 1 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">register 1 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection-2" id="dividerwith_spacesection16824e24a-2b16-4321-9eca-71666e663fb6" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="images/spacer.gif" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone-1-2-clone" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b">
+                                              <p>{{my.Email - Event 2 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b">
+                                              <p>{{my.Email - Event 2 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b">
+                                                      <p><strong><a href="http://{{my.Email - Event 2 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">register 2 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection-3" id="dividerwith_spacesection275365262-5bc9-4b3c-b50b-d3a099f60f16" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="https://via.placeholder.com/1" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone-1-2-clone-clone" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec069"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec069">
+                                              <p>{{my.Email - Event 3 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec069">
+                                              <p>{{my.Email - Event 3 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec069">
+                                                      <p><strong><a href="http://{{my.Email - Event 3 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">register 3 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="dividerwith_spacesection-5" id="dividerwith_spacesection104ecff7a-ec4d-479f-bd23-d3f895382ae7" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                        <tr> 
+                          <td height="1" style="height:1px; background-color:#e6e6e6; font-size:0px; line-height:0px;" bgcolor="#e6e6e6"><img src="images/spacer.gif" width="1" height="1" alt="" style="display:block;" border="0" /></td> 
+                        </tr> 
+                        <tr> 
+                          <td height="30" style="height:30px;" class="em_h20">&nbsp;</td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="twocol_titlewith_button_greybgcolor-4-clone-clone-1-2-clone-clone-clone" id="twocol_titlewith_button_greybgcolor199c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec06907ecff03-d2db-4c63-979f-d46846a9c217"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="padding-bottom:${padding}px; background-color:#ffffff;" class="em_aside1" bgcolor="#ffffff"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper" width="380" style="width:380px;"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:25px; font-weight:bold;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext399c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec06907ecff03-d2db-4c63-979f-d46846a9c217">
+                                              <p>{{my.Email - Event 4 Header}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="left" class="em_green em_font20" style="font-size:14px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; line-height:20px; font-weight:normal;"> 
+                                            <div class="mktoText" mktoname="content_text" id="contenttext3a99c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec06907ecff03-d2db-4c63-979f-d46846a9c217">
+                                              <p>{{my.Email - Event 4 Body Copy}}</p>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td height="16" style="height:16px; font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td> 
+                                        </tr> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <table border="0" cellspacing="0" cellpadding="0" align="left" style="background-color:#333333; border-radius:3px;" bgcolor="#333333"> 
+                                              <tbody> 
+                                                <tr> 
+                                                  <td valign="middle" align="center" height="0" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; padding:0px 30px 0px 30px; height:40px;"> 
+                                                    <div class="mktoText" mktoname="button_text" id="buttontext299c8b17b-9c13-4b43-98ac-7f96b65d34a23b309ee6-cf68-494f-8b6a-274962c1a5c3b28ddf8c-814f-4526-85d3-483ae653b70e7a222e9f-430f-49b4-a3d3-d745d868474b892efb22-4eb0-497f-87ea-c1b4f68ec06907ecff03-d2db-4c63-979f-d46846a9c217">
+                                                      <p><strong><a href="http://{{my.Email - Event 4 CTA URL}}" target="_blank" style="text-decoration: none; color: #ffffff; display: block; line-height: 10px;">register 4 →</a></strong></p>
+                                                    </div></td> 
+                                                </tr> 
+                                              </tbody> 
+                                            </table></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="em_full_wrap mktoModule" mktoname="Spacer_1-1" id="spacing-15a3391d3-62f7-4898-85a8-1c2504bd33fd"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" style="font-size:0px; line-height:0px; padding:${divider-1-t}px 0px ${divider-1-b}px 0px;"><span>&nbsp;</span></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="footerlinkswith_colorbackground" id="footerlinkswith_colorbackground51c57fd9-c0b8-44c5-a9a2-bbe7ae741ca5" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;" bgcolor="#ffffff"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center"> 
+                            <table width="650" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top" align="center" class="em_white1" style="font-size:16px; font-family:'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#ffffff; line-height:21px; padding:14px 10px;"> 
+                                    <div class="mktoText" mktoname="footer_text" id="footertext151c57fd9-c0b8-44c5-a9a2-bbe7ae741ca5"></div></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+                <tr> 
+                  <td height="30" style="height:30px;" class="em_h20"></td> 
+                </tr> 
+              </tbody> 
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="em_full_wrap mktoModule" mktoname="footerwith_whitebackground" id="footerwith_whitebackground" bgcolor="#ffffff"> 
+              <tbody> 
+                <tr> 
+                  <td align="center" valign="top"> 
+                    <table align="center" width="650" border="0" cellspacing="0" cellpadding="0" class="em_main_table" style="width:650px;"> 
+                      <tbody> 
+                        <tr> 
+                          <td valign="top" align="center" class="em_aside10"> 
+                            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;" class="em_wrapper"> 
+                              <tbody> 
+                                <tr> 
+                                  <td valign="top" align="center" style="padding-bottom:16px;"> 
+                                    <table border="0" cellspacing="0" cellpadding="0" align="center"> 
+                                      <tbody> 
+                                        <tr> 
+                                          <td valign="top" align="center"> 
+                                            <div class="mktoImg" mktoname="fbimg_33x33" id="fbimg1" mktolockimgsize="false">
+                                              <a href="http://www.facebook.com" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/28?text=FB" width="28" height="28" alt="fb" style="font-size:12px;   font-family:Arial, sans-serif; color:#ffffff; line-height:15px; display:block; max-width:33px;" border="0" /></a>
+                                            </div></td> 
+                                          <td width="10" style="width:10px;">&nbsp;</td> 
+                                          <td valign="top" align="center"> 
+                                            <div class="mktoImg" mktoname="twimg_33x33" id="twimg1" mktolockimgsize="false">
+                                              <a href="http://www.twitter.com" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/28?text=T" width="28" height="27" alt="tw" style="font-size:12px;   font-family:Arial, sans-serif; color:#ffffff; line-height:15px; display:block; max-width:34px;" border="0" /></a>
+                                            </div></td> 
+                                          <td width="10" style="width:10px;">&nbsp;</td> 
+                                          <td valign="top" align="center"> 
+                                            <div class="mktoImg" mktoname="ytimg_33x33" id="ytimg1" mktolockimgsize="false">
+                                              <a href="http://www.vimeo.com" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/28?text=V" width="28" height="27" alt="yt" style="font-size:12px;   font-family:Arial, sans-serif; color:#ffffff; line-height:15px; display:block; max-width:34px;" border="0" /></a>
+                                            </div></td> 
+                                          <td width="10" style="width:10px;">&nbsp;</td> 
+                                          <td valign="top" align="center"> 
+                                            <div class="mktoImg" mktoname="instaimg_33x33" id="instaimg1" mktolockimgsize="false">
+                                              <a href="http://www.instagram.com" target="_blank" style="text-decoration:none;"><img src="https://via.placeholder.com/28?text=IG" width="28" height="28" alt="insta" style="font-size:12px;   font-family:Arial, sans-serif; color:#ffffff; line-height:15px; display:block; max-width:33px;" border="0" /></a>
+                                            </div></td> 
+                                        </tr> 
+                                      </tbody> 
+                                    </table></td> 
+                                </tr> 
+                                <tr> 
+                                  <td valign="top" align="left" class="em_grey1" style="font-size:11px; font-family:Arial, sans-serif; color:#444444; line-height:16px; padding-bottom:20px;"> 
+                                    <div class="mktoText" mktoname="footer_text" id="footertext4">
+                                      <p style="text-align: justify;">{{my.Email - Disclosures Editable}} <br />{{my.Email - Disclosures Standard}} <br /></p>
+                                    </div></td> 
+                                </tr> 
+                                <tr> 
+                                  <td valign="top" align="center" class="em_grey1" style="font-size:11px; font-family:Arial, sans-serif; color:#444444; line-height:18px; font-weight:bold; padding-bottom:22px;"> 
+                                    <div class="mktoText" mktoname="footer_text" id="footertext5">
+                                      <p style="color: #333333; font-size: 11px;">© {{my.copywrite year}} {{my.companyname}}. All Rights Reserved. {{my.companyname}} is federally insured by NCUA and is an Equal Housing Lender. <img height="12" src="https://via.placeholder.com/12" width="12" /> <br />{{my.Email - Disclosures Footer}}<br /></p>
+                                    </div></td> 
+                                </tr> 
+                                <tr> 
+                                  <td valign="top" align="center" class="em_pbottom" style="font-size:11px;  font-family:Arial, sans-serif; color:#444444; line-height:14px; padding-bottom:30px; font-weight:bold;"> 
+                                    <div class="mktoText" mktoname="footer_text" id="footertext6">
+                                      <p><a href="{{system.unsubscribeLink}}" target="_blank" style="text-decoration: underline; color: #444444;">Unsubscribe</a> or <a href="#" target="_blank" style="text-decoration: underline; color: #444444;">Update Your Email Preferences</a></p>
+                                    </div></td> 
+                                </tr> 
+                              </tbody> 
+                            </table></td> 
+                        </tr> 
+                        <tr> 
+                          <td class="em_hide" style="line-height:1px;min-width:650px;background-color:#ffffff;"><img alt="" src="#" height="1" width="650" style="max-height:1px; min-height:1px; display:block; width:650px; min-width:650px;" border="0" /></td> 
+                        </tr> 
+                      </tbody> 
+                    </table></td> 
+                </tr> 
+              </tbody> 
+            </table></td> 
+        </tr> 
+      </tbody>
+    </table>  
+  </body>
+</html>
